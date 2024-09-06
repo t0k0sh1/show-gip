@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Flow 型チェッカーJavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>GitHub Actions</id>
+          </State>
+          <State>
+            <id>JSON および JSON5</id>
+          </State>
+          <State>
+            <id>JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>インポートと依存関係JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>一般</id>
+          </State>
+          <State>
+            <id>一般JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>妥当性の問題JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>校正</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ユーザー定義</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
